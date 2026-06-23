@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/Java-17+-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 # Hi, I'm Shreshth Sharan 👋
 
 ### Java Backend Developer | Spring Boot | PostgreSQL | REST APIs
